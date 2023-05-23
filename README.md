@@ -7,11 +7,13 @@ Pandas-api-challenge is the main directory which contains the following project 
      - api_keys.py file which contains API Keys for OpenWeatherMap API and Geoapify API.
 	
 	"output_data" sub-directory contains following output csv and image files:
+	
        - cities.csv  which extracts cities from OpenWeatherMap API.
        - Fig1.png (Scatter plot for City Max Latitude vs. Temperature).
        - Fig2.png (Scatter plot for City Max Latitude vs. Humidity).
        - Fig3.png (Scatter plot for City Max Latitude vs. Cloudiness).
        - Fig4.png (Scatter plot for City Max Latitude vs. Windspeed).
+       
   ReadME.md - Current file which desribes Project structure, analysis of different regression plots.
 
 From the liner regression plots in WeatherPy.ipynb, we can infer that that,
