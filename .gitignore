@@ -158,3 +158,9 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# OpenWeatherMap API Key
+weather_api_key = "5ba3f3503abe75121fec57a69d8b6e35"
+
+# Geoapify API Key
+geoapify_key = "e03c45556e4246fd974bd8232145e56a"
